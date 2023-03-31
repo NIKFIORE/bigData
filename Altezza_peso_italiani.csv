@@ -1,5 +1,5 @@
 Sesso,Altezza(m),Peso(kg)
-Donna,1.20,100
+Donna,1.51,70
 Uomo,1.86,86
 Uomo,1.96,105
 Uomo,1.75,71
@@ -20,6 +20,7 @@ Uomo,1.80,81
 Donna,1.55,45
 Uomo,1.90,105
 Uomo,1.85,90
+Donna,1.52,41
 Uomo,1.75,75
 Donna,1.62,50
 Uomo,1.78,80
